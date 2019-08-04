@@ -1,0 +1,6 @@
+/vendor
+/node_modules
+/config-overrides.js
+*.test.js
+/src/*.js
+/webpack-config.dev.js
